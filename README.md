@@ -2,6 +2,8 @@
 
 The source code for *AdaCare: Explainable Clinical Health Status Representation Learning via Scale-Adaptive Feature Extraction and Recalibration*
 
+Thanks for your interest in our work. More details about the experiment, case study and visualization system will be released before AAAI2020.
+
 ## Requirements
 
 * Install python, pytorch. We use Python 3.7.3, Pytorch 1.1.
