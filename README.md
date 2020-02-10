@@ -4,6 +4,17 @@ The source code for *AdaCare: Explainable Clinical Health Status Representation 
 
 Thanks for your interest in our work. More details about the experiment, case study and visualization system will be released before AAAI2020.
 
+## Visualization
+Welcome to test the prototype of our visualization tool:
+http://47.93.42.104:8888/patient/215       
+http://47.93.42.104:8888/patient/318       
+http://47.93.42.104:8888/patient/616  
+http://47.93.42.104:8888/patient/265   
+http://47.93.42.104:8888/patient/812  
+http://47.93.42.104:8888/patient/455  
+http://47.93.42.104:8888/patient/998  
+http://47.93.42.104:8888/patient/544
+
 ## Requirements
 
 * Install python, pytorch. We use Python 3.7.3, Pytorch 1.1.
